@@ -1,16 +1,20 @@
 # Hola, soy Alejandro Lobo 👋
 
-Técnico Electrónico con más de 8 años de experiencia en hardware industrial,
-reparación electrónica y microsoldadura. Fui incorporando conocimientos en 
-programación a lo largo del tiempo y hoy trabajo en el cruce entre ambos mundos.
+Técnico Electrónico con más de 8 años de experiencia en hardware 
+industrial, reparación electrónica y microsoldadura. Esa base técnica 
+me permite entender los sistemas físicos desde adentro, algo que 
+define cómo encaró cada proyecto.
 
-Actualmente me estoy especializando en IIoT e Industria 4.0, estudiando 
-programación en C++ para microcontroladores ESP32 y automatización industrial 
-con PLC. A medida que avance en ese camino voy a ir sumando proyectos 
-en este perfil.
+Fui incorporando programación a lo largo del tiempo y hoy trabajo 
+en el cruce entre ambos mundos: hardware y software juntos.
 
-Me gusta aprender de forma autodidacta y mantenerme actualizado con las 
-tecnologías del sector.
+Me gusta aprender de forma autodidacta y mantenerme actualizado 
+con las tecnologías del sector. Actualmente me estoy especializando 
+en IIoT e Industria 4.0: ESP32, Python industrial, MQTT, Node-RED, 
+Docker, OpenCV y robótica con ABB RobotStudio.
+
+A medida que avance en ese camino voy a ir sumando proyectos en 
+este perfil que combinen programación y electrónica.
 
 ---
 
