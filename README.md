@@ -1,9 +1,9 @@
 # Hola, soy Alejandro Lobo 👋
 
-Técnico Electrónico con más de 8 años de experiencia en hardware 
-industrial, reparación electrónica y microsoldadura. Esa base técnica 
-me permite entender los sistemas físicos desde adentro, algo que 
-define cómo encaró cada proyecto.
+Técnico Electrónico con más de 8 años de experiencia en reparación y 
+mantenimiento de hardware electrónico complejo a nivel de componente. 
+Esa base técnica me permite entender los sistemas físicos desde 
+adentro, algo que define cómo encaró cada proyecto.
 
 Fui incorporando programación a lo largo del tiempo y hoy trabajo 
 en el cruce entre ambos mundos: hardware y software juntos.
