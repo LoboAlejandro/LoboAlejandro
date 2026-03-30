@@ -7,11 +7,12 @@ adentro, algo que define cómo encaró cada proyecto.
 
 Fui incorporando programación a lo largo del tiempo y hoy trabajo 
 en el cruce entre ambos mundos: hardware y software juntos.
-
 Me gusta aprender de forma autodidacta y mantenerme actualizado 
-con las tecnologías del sector. Actualmente me estoy especializando 
-en IIoT e Industria 4.0: ESP32, Python industrial, MQTT, Node-RED, 
-Docker, OpenCV y robótica con ABB RobotStudio.
+con las tecnologías del sector. 
+
+Actualmente me estoy especializando en IIoT e Industria 4.0: ESP32, 
+Python industrial, MQTT, Node-RED, Docker, OpenCV y robótica 
+con ABB RobotStudio.
 
 A medida que avance en ese camino voy a ir sumando proyectos en 
 este perfil que combinen programación y electrónica.
