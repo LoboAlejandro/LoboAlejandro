@@ -28,8 +28,6 @@ tecnologías del sector.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
-![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?style=flat&logo=siemens&logoColor=white)
-![SCADA](https://img.shields.io/badge/SCADA-FF6600?style=flat&logoColor=white)
 
 ---
 
